@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaru Zeng</h1>
 <h3 align="center">A passionate developer from China</h3>
-<br/>
+
 <h4 align="left">About me</h4>
 
 I'm a graduate from UCL MSc Scientific and Data Intensive Computing. 
@@ -13,7 +13,6 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 - 📄 Know about my experiences https://www.linkedin.com/in/yaru-zeng-6192a324a/
 
-<br/>
 
 <h4 align="left">Languages and Tools:</h4>
 
