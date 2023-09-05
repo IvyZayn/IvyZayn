@@ -16,7 +16,7 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 <h4 align="left">Languages and Tools: </h4>
 
-- 🎨 Frontend: CSS, HTML, JavaScript, React
+- 🎨 Frontend: CSS, HTML, JavaScript, React, Bootstrap, Tailwind
 
 - 💻 Backend: Node.js, Express.js, EJS, Motoko
   
