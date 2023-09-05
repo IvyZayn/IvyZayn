@@ -18,7 +18,7 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 - 🎨 Frontend: CSS, HTML, JavaScript, React
 
-- 💻 Backend: Node.js, Express.js, EJS
+- 💻 Backend: Node.js, Express.js, EJS, Motoko
   
 - 🔢 Database: MongoDB, SQL
   
