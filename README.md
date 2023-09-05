@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaru Zeng</h1>
 <h3 align="center">A passionate developer from China</h3>
 
+<h3 align="left">About me</h3>
+
+I'm a graduate from UCL MSc Scientific and Data Intensive Computing. 
+
 - 🔭 I’m currently working on **Airbnb Clone Project**
 
 - 🌱 I’m currently learning **MERN stack development**
