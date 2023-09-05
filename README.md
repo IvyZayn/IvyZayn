@@ -26,6 +26,6 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 <h4 align="left">Certificates: </h4>
 
-- Udemy: The 2023 Complete Web Development Bootcamp
+- 🔥 Udemy: The 2023 Complete Web Development Bootcamp
 
-- Coursera: SQL for Data Science
+- 🔥 Coursera: SQL for Data Science
