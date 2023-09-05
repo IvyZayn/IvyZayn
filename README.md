@@ -20,7 +20,7 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 - 💻 Backend: Node.js, Express.js, EJS
   
-- 🔢 Database: MongoDB, Mongoose, SQL
+- 🔢 Database: MongoDB, SQL
   
 - 👩‍💻 Other languages: C++, Python, Cython
 
