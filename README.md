@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yaruzengivy@outlook.com**
 
-- 📄 Know about my experiences ![<LinkedIn>](https://img.shields.io/badge/<LinkedIn>-<Blue>?style=for-the-badge&logo=<LinkedIn>&logoColor=<Blue>)[https://www.linkedin.com/in/yaru-zeng-6192a324a/](https://www.linkedin.com/in/yaru-zeng-6192a324a/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/yaru-zeng-6192a324a/)
 
 <h3 align="left">Languages and Tools:</h3>
 
