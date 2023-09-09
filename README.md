@@ -5,7 +5,7 @@
 
 I'm a graduate from UCL MSc Scientific and Data Intensive Computing. 
 
-- 👩‍💻 I’m currently working on **Airbnb Clone Project**
+- 👩‍💻 I’m currently working on **Finding a job as a developer**
 
 - 🌱 I’m currently learning **MERN stack development**
 
