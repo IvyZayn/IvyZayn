@@ -9,7 +9,7 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
-- 😉 How to reach me **yaruzengivy@outlook.com**
+- 😉 How to reach me **yaruzengzyr@outlook.com**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/yaru-zeng-6192a324a/**
 
