@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 😉 How to reach me **yaruzengzyr@outlook.com**
 
-- 📄 Know about my experiences: **https://www.linkedin.com/in/yaru-zeng-6192a324a/**
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/yaru-zeng-6192a324a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
   
 </p>
 
@@ -41,7 +41,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     align="left" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=YaruZeng&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" 
     alt="streaks"
-    width="400"
+    width="500"
   />
 </p>
 
