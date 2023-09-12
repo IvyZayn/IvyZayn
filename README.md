@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h4 align="left">About me: </h4>
 
-I'm a graduate with aspirations to become a professional developer.
+  I'm a graduate with aspirations to become a professional developer.
 
 - 👩‍💻 I’m currently working on **finding a job as a developer**
 
