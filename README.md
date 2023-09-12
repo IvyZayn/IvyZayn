@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yaru Zeng</h1>
-<h3 align="center">A passionate developer from China</h3>
 
 <h4 align="left">About me: </h4>
 
-I'm a graduate from UCL MSc Scientific and Data Intensive Computing. 
+I'm a graduate from UCL MSc Scientific and Data Intensive Computing with aspirations to become a professional developer.
 
 - 👩‍💻 I’m currently working on **finding a job as a developer**
 
@@ -29,3 +28,6 @@ I'm a graduate from UCL MSc Scientific and Data Intensive Computing.
 - 📚 Udemy: The 2023 Complete Web Development Bootcamp
 
 - 📖 Coursera: SQL for Data Science
+
+
+<a href="http://www.github.com/YaruZeng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaruZeng&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
