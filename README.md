@@ -30,5 +30,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 📖 Coursera: SQL for Data Science
 
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaruZeng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="YaruZeng"
+  />
+</p>
 
 <a href="http://www.github.com/YaruZeng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YaruZeng&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
