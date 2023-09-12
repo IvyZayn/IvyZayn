@@ -5,6 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   I'm a graduate with aspirations to become a professional developer.
 
+  <p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+  </p>
+
 - 👩‍💻 I’m currently working on **finding a job as a developer**
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
