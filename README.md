@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaruZeng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="languages"
-    width="285"
+    width="290"
   />
   <img 
     align="left" 
