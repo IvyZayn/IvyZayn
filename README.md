@@ -12,9 +12,9 @@ Hi 👋 My name is Yaru Zeng
   
 <p align="left" >
   
-  I'm a graduate with aspirations to become a professional software developer.
+  I'm a graduate with aspirations to become a professional developer.
 
-- 👩‍💻 I’m currently working on **finding a job as a developer**
+- 👩‍💻 I’m currently working on **finding a job as a software developer**
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
