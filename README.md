@@ -14,7 +14,7 @@ Hi 👋 My name is Yaru Zeng
   
   I'm a graduate with aspirations to become a professional developer.
 
-- 👩‍💻 I’m currently **finding a job as a software developer**
+- 👩‍💻 I’m currently **looking for a job as a software developer**
 
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
