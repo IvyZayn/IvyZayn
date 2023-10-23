@@ -12,7 +12,7 @@ Hi 👋 My name is Yaru Zeng
   
 <p align="left" >
   
-  I'm a graduate with aspirations to become a professional developer.
+  I'm a graduate with aspirations to become a professional software engineer.
 
 - 👩‍💻 I’m currently **looking for a job as a software developer**
 
