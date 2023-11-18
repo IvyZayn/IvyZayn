@@ -14,10 +14,6 @@ Hi 👋 My name is Yaru Zeng
   
   I'm a graduate with aspirations to become a professional software engineer.
 
-- 👩‍💻 I’m currently **looking for a job as a software developer**
-
-- 🌱 I’m currently learning **Data structure and Algorithm**
-
 - 😉 How to reach me **yaruzengzyr@outlook.com**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/yaru-zeng/**
