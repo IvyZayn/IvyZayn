@@ -14,7 +14,7 @@ Hi 👋 My name is Yaru Zeng
   
   I'm a graduate with aspirations to become a professional software engineer.
 
-- 📒 I'm currently learning **C# ASP.NET**
+- 📒 I'm currently learning **React**
   
 - 😉 How to reach me **yaruzengzyr@outlook.com**
 
