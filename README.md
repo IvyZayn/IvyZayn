@@ -33,7 +33,7 @@ Hi 👋 My name is Yaru Zeng
 <p align="left">
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaruZeng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaruZeng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="languages"
     width="290"
   />
