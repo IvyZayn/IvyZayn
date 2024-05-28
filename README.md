@@ -1,4 +1,4 @@
-Hi 👋 My name is Yaru Zeng
+Hi 👋 I'm Yaru Zeng
 ==========================
 
 <img 
