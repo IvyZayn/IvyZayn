@@ -14,7 +14,7 @@ Hi 👋 I'm Yaru Zeng
   
   I'm a graduate with aspirations to become a professional Full-stack Software Engineer.
 
-- 📒 I'm currently learning **React**
+- 📒 I'm currently learning **C#, TypeScript, React**
   
 - 😉 How to reach me **yaruzengzyr@outlook.com**
 
