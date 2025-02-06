@@ -12,7 +12,7 @@ Hi 👋 I'm Yaru Zeng
   
 <p align="left" >
   
-  I'm a graduate with aspirations to become a professional Full-stack Software Engineer.
+  I'm a Full-stack Software Engineer working in the financial sector.
 
 - 📒 I'm currently learning **C#, Angular**
   
